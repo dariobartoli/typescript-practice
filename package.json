@@ -1,6 +1,9 @@
 {
   "scripts": {
-    "dev": "ts-node calculadora/calculadora.ts"
+    "calc": "ts-node calculadora/calculadora.ts",
+    "persona": "ts-node personas/personas.ts",
+    "hero": "ts-node typeAlias/hero.ts",
+    "tateti": "ts-node tateti/tateti.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
